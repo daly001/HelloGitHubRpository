@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.view.Menu;
 
 /*commentaire*/
+/*commentaire 2*/
 public class MainActivity extends Activity {
 
     @Override
